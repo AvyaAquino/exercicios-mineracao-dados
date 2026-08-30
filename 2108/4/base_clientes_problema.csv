@@ -1,0 +1,101 @@
+﻿ID do Cliente;Nome;Idade;Cidade;Estado;Renda;Quantidade de Compras;Valor Total das Compras
+C0001;Karina Melo;62;Salvador;BA;10182;31;13313.74
+C0002;Danilo Ribeiro;69;Fortaleza;CE;4223.27;34;5311.66
+C0003;Ana Silva;41;Goiânia;GO;7452.12;10;4071.88
+C0004;Olívia Ferreira;62;Campinas;SP;7566.50;27;8833.06
+C0005;Carla Gomes;52;Recife;PE;10959.68;24;1450.82
+C0006;Aline Oliveira;25;São Paulo;SP;7781.28;36;13601.02
+C0007;Zeca Ribeiro;27;Belo Horizonte;MG;10579.43;31;13629.10
+C0008;Pedro Oliveira;67;Uberlândia;MG;4553.02;38;18808.81
+C0009;Eduarda Santos;53;Recife;PE;9178.04;25;3512.14
+C0010;João Rocha;44;Curitiba;PR;6620.91;29;7993.78
+C0011;Úrsula Ribeiro;42;Caxias do Sul;RS;2154.23;-10;729.15
+C0012;William Ribeiro;18;Recife;PE;;39;15080.49
+C0013;Olívia Gomes;53;Vitória;ES;3287.77;11;3651.16
+C0014;Vitor Martins;66;Vitória;ES;14072.09;16;1543.57
+C0015;Eduarda Almeida;67;Salvador;BA;6748.36;3;1062.47
+C0016;Sabrina Ferreira;44;Belo Horizonte;MG;14490.87;38;2143.89
+C0017;Wesley Ribeiro;50;Joinville;SC;10603.56;16;1968.51
+C0018;Eduarda Barbosa;69;Salvador;BA;;31;2351.16
+C0019;Sofia Souza;34;Curitiba;PR;2258.85;16;2028.53
+C0020;Eduarda Gomes;59;Niterói;XX;14781.50;31;2239.16
+C0021;Isabela Dias;64;Recife;PE;2173.55;14;6366.47
+C0022;Ximena Pereira;41;Vitória;ES;12000.48;32;9968.41
+C0023;Fernanda Carvalho;;Brasília;DF;9567.04;9;3561.44
+C0024;Ana Araújo;61;Niterói;RJ;14392.46;2;337.98
+C0025;Úrsula Ferreira;55;Salvador;BA;5195;26;10094.15
+C0026;Isabela Pereira;;Rio de Janeiro;RJ;7039.88;12;736.71
+C0027;Daniela Pereira;22;Rio de Janeiro;RJ;10450.27;9;1681.31
+C0028;Úrsula Araújo;250;Porto Alegre;RS;9999.85;12;1593.29
+C0029;Yasmin Costa;63;Brasília;DF;11793.14;39;14425.87
+C0030;Aline Souza;68;São Paulo;SP;;5;1145.36
+C0031;Larissa Almeida;63;Porto Alegre;RS;5138.36;39;7453.98
+C0032;Carla Ferreira;42;Niterói;RJ;;19;7940.50
+C0033;Kevin Ribeiro;54;Rio de Janeiro;RJ;;4;1114.78
+C0034;Aline Gomes;51;Curitiba;PR;5649.37;40;11464.16
+C0035;Kevin Costa;22;Vitória;ES;12553.89;13;2728.07
+C0036;Úrsula Melo;24;Guarulhos;SP;10402.61;29;8040.81
+C0037;Bruno Barbosa;48;Fortaleza;CE;8571.69;26;2123.14
+C0038;Bruno Souza;60;Salvador;BA;2354.93;18;6603.85
+C0039;Zeca Melo;47;Porto Alegre;RS;7066;21;5650.11
+C0040;Patricia Oliveira;20;Recife;PE;4081.59;24;8945.47
+C0041;Nicolas Barbosa;58;Vitória;ES;10617.98;39;14217.91
+C0042;Tiago Rodrigues;33;Recife;PE;13900.16;25;4691.96
+C0043;Yasmin Dias;63;São Paulo;SP;3936.70;13;2473.64
+C0044;Zeca Pereira;23;Brasília;DF;-3000;34;6329.82
+C0045;Yasmin Barbosa;24;Belo Horizonte;MG;11092.15;14;4975.62
+C0046;Ximena Costa;34;Guarulhos;SP;14356.35;21;5913.67
+C0047;João Dias;30;Porto Alegre;RS;9693.19;18;6701.13
+C0048;Karina Araújo;-5;Joinville;SC;7566.83;40;13983.58
+C0049;Sabrina Almeida;;Joinville;SC;10006.58;7;943.64
+C0050;Nicolas Souza;40;Florianópolis;;2050.64;33;10263.28
+C0051;Zeca Barbosa;62;Feira de Santana;BA;4971;1;473.70
+C0052;João Santos;;Uberlândia;MG;7794.18;1;216.52
+C0053;Isabela Melo;51;Campinas;SP;5874.10;27;6246.09
+C0054;Kevin Ferreira;32;Goiânia;GO;12391.33;;17720.26
+C0055;Danilo Silva;60;Goiânia;GO;2763.76;28;12735.93
+C0056;Aline Costa;27;Campinas;SP;8365.10;34;10979.76
+C0057;Otavio Ribeiro;48;Londrina;PR;3815.73;10;2089.07
+C0058;Thiago Silva;69;Guarulhos;SP;10619.98;12;3363.48
+C0059;Tiago Costa;41;Caxias do Sul;RS;6451.30;11;733.88
+C0060;Gustavo Rodrigues;61;Joinville;XX;3888.07;7;1082.93
+C0061;Wesley Rocha;34;Salvador;BA;4426.41;13;4907.72
+C0062;Igor Melo;23;Londrina;PR;12720.04;14;3867.47
+C0063;Yago Martins;56;Brasília;DF;10155.65;;713.65
+C0064;Ximena Ribeiro;48;Belo Horizonte;MG;13207.37;29;11977.95
+C0065;Rafael Souza;31;Vitória;ES;8838.97;8;3892.64
+C0066;Enzo Martins;18;Florianópolis;SC;4088.23;17;5494.99
+C0067;Bernardo Araújo;59;Belo Horizonte;MG;4206.76;35;9632.95
+C0068;Beatriz Costa;32;Fortaleza;;9124.14;29;11106.50
+C0069;Ximena Oliveira;33;Joinville;;9711.68;23;6737.40
+C0070;Bruno Melo;55;São Paulo;SP;14792.76;14;5372.99
+C0071;Nicolas Rocha;51;Florianópolis;SC;13614.99;33;6047.09
+C0072;Karina Ferreira;60;Salvador;BA;9899.67;30;11906.85
+C0073;Bernardo Costa;59;Uberlândia;MG;5138.96;28;11821.27
+C0074;Olívia Ribeiro;48;Caxias do Sul;RS;2334.66;30;4278.46
+C0075;Danilo Gomes;55;Feira de Santana;BA;12396.33;9;3409.88
+C0076;João Araújo;250;São Paulo;SP;12063.86;38;6971.97
+C0077;Enzo Costa;;Porto Alegre;RS;13282.29;36;14960.51
+C0078;Fernanda Souza;19;Florianópolis;SC;13896.43;9;2474.33
+C0079;Natalia Oliveira;34;Rio de Janeiro;RJ;6748.88;;6467.06
+C0080;Enzo Santos;30;Vitória;ES;12989.55;;1928.47
+C0081;Pedro Pereira;27;Caxias do Sul;XX;3175.72;40;7324.49
+C0082;Nicolas Dias;31;Niterói;RJ;8367.88;32;4737.24
+C0083;Tiago Gomes;59;Fortaleza;CE;6660.07;13;5580.22
+C0084;Quesia Melo;21;Rio de Janeiro;RJ;11781.23;39;13441.69
+C0085;Bruno Ferreira;56;Feira de Santana;BA;8240.57;35;16904.90
+C0086;Ximena Melo;58;São Paulo;SP;10191.57;24;2740.39
+C0087;Patricia Barbosa;64;Fortaleza;CE;9538.02;29;11751.77
+C0088;Olívia Oliveira;40;Recife;;3838.01;1;409.59
+C0089;Úrsula Gomes;37;Uberlândia;MG;14532.13;-10;4020
+C0090;João Silva;-5;Belo Horizonte;MG;12984.98;15;4468.06
+C0091;Karina Rocha;59;Rio de Janeiro;RJ;10096.52;8;3139.13
+C0092;Nicolas Costa;52;São Paulo;;2921.83;16;2380.95
+C0093;Larissa Santos;33;Uberlândia;MG;7500.32;34;12386.60
+C0094;Thiago Gomes;69;Florianópolis;SC;13475.26;27;1766.97
+C0095;Gustavo Souza;43;Goiânia;GO;8164.48;3;1400.41
+C0096;Felipe Rodrigues;67;Recife;PE;-3000;34;14322.16
+C0097;Sofia Gomes;41;Recife;PE;10458.97;25;11559.98
+C0098;Hugo Carvalho;55;Guarulhos;SP;8225.02;;3501.48
+C0099;João Carvalho;37;Joinville;SC;3280;29;13280.79
+C0100;Diego Martins;65;Salvador;BA;8567.10;7;2327.28
